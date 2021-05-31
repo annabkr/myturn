@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "myturn",
+  "version": "1.0.0",
+  "description": "Command line script to send text notifications when a specified vaccine center shows that they may have appointments available on MyTurn.ca.gov.",
+  "main": "myturn.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annabkr/myturn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annabkr/myturn/issues"
+  },
+  "homepage": "https://github.com/annabkr/myturn#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/node": "^7.14.2",
+    "@babel/preset-env": "^7.14.4"
+  }
+}
